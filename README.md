@@ -1,1 +1,1 @@
-# Counter-System-
+Counter Smart Contract
