@@ -7,11 +7,11 @@ Counter is a simple and interactive Solidity smart contract deployed on the Ethe
 
 Blockchain: Ethereum (Testnet/Mainnet)
 
-Deployed Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+Deployed Contract Address: 0x07447e71aACe5327b9Ca8eDE749F935AB7f3C915
 
-Transaction Hash: 0xb2f47b8afc05ecfb893170268a53677a20f41420120b5788707a91a59d62f6f3
+Transaction Hash: 0x7c5c13a3c8e0d343d96845e42d39f75203674ce987e9d8bab86eb2a9d5dd5129
 
-Transaction Cost: 262,466 gas
+
 ✅ Successfully deployed and verified.
 
 
