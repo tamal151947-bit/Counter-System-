@@ -123,5 +123,5 @@ Owner: Tamal Kar
 
 🌱 Counter Smart Contract – Learn, interact, and experiment with blockchain in a simple way.
 
-<img width="1625" height="753" alt="Screenshot 2025-10-18 122905" src="https://github.com/user-attachments/assets/66df1689-75a0-4a3c-bd40-7b5a23edb576" />
 
+<img width="1577" height="716" alt="Screenshot 2025-10-18 142436" src="https://github.com/user-attachments/assets/4b79441c-a4ea-4c5c-a96c-f1937be660a8" />
